@@ -1,0 +1,25 @@
+.posts_box{
+    display:flex;
+    justify-content: left;
+    margin-top: 30px;
+}
+.post_image{
+    width:60%;
+    max-height: 300px;
+    max-width: 300px;
+    overflow: hidden;
+}
+.post_info{
+    margin-left: 20px;
+    display: block;
+}
+.image{
+    width:100%;
+    max-width:300px;
+}
+.button{
+    margin-top: 5px;
+}
+.button--liked{
+    background-color: red;
+}
